@@ -1,0 +1,19 @@
+body{
+    padding-top: 2%;
+}
+.navbar {
+    overflow: hidden;
+    margin-right: 12%;
+    margin-bottom: 30%;
+    
+  }
+  
+  .navbar a {
+    float: right;
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+

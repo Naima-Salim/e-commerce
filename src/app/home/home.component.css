@@ -1,0 +1,29 @@
+body{
+    padding-top: 2%;
+
+
+}
+
+.heading{
+    font-size: 80px;
+    margin-top: -23%;
+    padding-left: 3%;
+    width: 50%;
+    font-weight: bold;
+}
+
+.heading2{
+    padding-left: 3%;
+    font-size: 25px;
+    padding-top: 1.4%;
+
+}
+.shop{
+    padding-left: 3%;
+    padding-top: 2%;
+    
+}
+.image{
+    margin-left: 58%;
+    margin-top: -40%;
+}
